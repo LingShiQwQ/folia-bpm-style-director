@@ -1,0 +1,16 @@
+{
+  "name": "folia-bpm-style-director",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "BPM-based lyric style selection for Folia 0.7.22. AI-created with OpenAI Codex.",
+  "license": "MIT",
+  "author": "LingShiQwQ",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test test.mjs",
+    "test:ui": "node ui-test.mjs"
+  }
+}

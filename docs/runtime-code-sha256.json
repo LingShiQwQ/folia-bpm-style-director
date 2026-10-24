@@ -1,0 +1,37 @@
+[
+  {
+    "file": "analyze.mjs",
+    "sha256": "5cbc4bc17c478cb0438463f66ccc572578f50224eb0c2968c258f746fbcf067d",
+    "matchesInstalledRuntime": true
+  },
+  {
+    "file": "client.mjs",
+    "sha256": "5e42fb68cd428442980e898b3d2df58a48bda0d4344dcd03c7a48ee8cba21e5a",
+    "matchesInstalledRuntime": true
+  },
+  {
+    "file": "engine.mjs",
+    "sha256": "1cf0dee5df5ef4dc7fbf7fbc58ddea72243e39dd7bc4b29ea891811b1265408d",
+    "matchesInstalledRuntime": true
+  },
+  {
+    "file": "estimator.mjs",
+    "sha256": "e6f6cf879ef7539020b94e609d43e15453a3336bf58930a46f74f3cd4a36779b",
+    "matchesInstalledRuntime": true
+  },
+  {
+    "file": "host.mjs",
+    "sha256": "e9a0bde10c5760a622c90f9aaf9033eea7c3e8c00149899e3f1eda0a8900b3af",
+    "matchesInstalledRuntime": true
+  },
+  {
+    "file": "panel.mjs",
+    "sha256": "78722bfaacf2c6237dc09c23e69f52cbf9ca1adae2c16802f5b428d2dff91d3b",
+    "matchesInstalledRuntime": true
+  },
+  {
+    "file": "rules.mjs",
+    "sha256": "d54dc8168096b3d44de836133cb2645f3b31c4b181d9146cefd2526ec35f6868",
+    "matchesInstalledRuntime": true
+  }
+]

@@ -1,0 +1,7 @@
+dist/
+validation/
+node_modules/
+.env
+.env.*
+*.log
+__pycache__/
